@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.anadiv {
+	margin: 0 auto;
+	width:980px;
+}
+
+button.kirmizibtn {
+  background-color: #ee432e;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ee432e), color-stop(50%, #c63929), color-stop(50%, #b51700), color-stop(100%, #891100));
+  background-image: -webkit-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100 100%);
+  background-image: -moz-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100 100%);
+  background-image: -ms-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100 100%);
+  background-image: -o-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100 100%);
+  background-image: linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100 100%);
+  border: 1px solid #951100;
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4), 0 1px 3px #333333;
+  box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4), 0 1px 3px #333333;
+  color: #fff;
+  font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+  padding: 12px 0 14px 0;
+  text-align: center;
+  text-shadow: 0px -1px 1px rgba(0, 0, 0, 0.8);
+  width: 150px; }
+  button.kirmizibtn:hover {
+    background-color: #f37873;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f37873), color-stop(50%, #db504d), color-stop(50%, #cb0500), color-stop(100%, #a20601));
+    background-image: -webkit-linear-gradient(top, #f37873 0%, #db504d 50%, #cb0500 50%, #a20601 100%);
+    background-image: -moz-linear-gradient(top, #f37873 0%, #db504d 50%, #cb0500 50%, #a20601 100%);
+    background-image: -ms-linear-gradient(top, #f37873 0%, #db504d 50%, #cb0500 50%, #a20601 100%);
+    background-image: -o-linear-gradient(top, #f37873 0%, #db504d 50%, #cb0500 50%, #a20601 100%);
+    background-image: linear-gradient(top, #f37873 0%, #db504d 50%, #cb0500 50%, #a20601 100%);
+    cursor: pointer; }
+  button.kirmizibtn:active {
+    background-color: #d43c28;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d43c28), color-stop(50%, #ad3224), color-stop(50%, #9c1500), color-stop(100%, #700d00));
+    background-image: -webkit-linear-gradient(top, #d43c28 0%, #ad3224 50%, #9c1500 50%, #700d00 100%);
+    background-image: -moz-linear-gradient(top, #d43c28 0%, #ad3224 50%, #9c1500 50%, #700d00 100%);
+    background-image: -ms-linear-gradient(top, #d43c28 0%, #ad3224 50%, #9c1500 50%, #700d00 100%);
+    background-image: -o-linear-gradient(top, #d43c28 0%, #ad3224 50%, #9c1500 50%, #700d00 100%);
+    background-image: linear-gradient(top, #d43c28 0%, #ad3224 50%, #9c1500 50%, #700d00 100%);
+    -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4);
+    box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4); }
+
+
+
+
+
+
+
+button.yesilbtn {
+  background-color: #7fbf4d;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7fbf4d), color-stop(100%, #63a62f));
+  background-image: -webkit-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: -moz-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: -ms-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: -o-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: linear-gradient(top, #7fbf4d, #63a62f);
+  border: 1px solid #63a62f;
+  border-bottom: 1px solid #5b992b;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 1px 0 0 #96ca6d;
+  box-shadow: inset 0 1px 0 0 #96ca6d;
+  color: #fff;
+  font: bold 11px/1 "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+  padding: 14px 0 14px 0;
+  text-align: center;
+  text-shadow: 0 -1px 0 #4c9021;
+  width: 150px;
+  font-size: 16px; }
+  button.yesilbtn:hover {
+    background-color: #76b347;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #76b347), color-stop(100%, #5e9e2e));
+    background-image: -webkit-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: -moz-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: -ms-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: -o-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: linear-gradient(top, #76b347, #5e9e2e);
+    -webkit-box-shadow: inset 0 1px 0 0 #8dbf67;
+    box-shadow: inset 0 1px 0 0 #8dbf67;
+    cursor: pointer; }
+  button.yesilbtn:active {
+    border: 1px solid #5b992b;
+    border-bottom: 1px solid #538c27;
+    -webkit-box-shadow: inset 0 0 8px 4px #548c29, 0 1px 0 0 #eeeeee;
+    box-shadow: inset 0 0 8px 4px #548c29, 0 1px 0 0 #eeeeee; }
+
+div.geneldiv {
+	border: 1px #666 solid;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+	background-color:#CFF;
+	margin:10px;
+	color:#000;
+	font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+	vertical-align:middle;
+	padding:10px;
+}
+
+div.kutu {
+	width:200px;
+	height:100px;
+	border: 1px #666 solid;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+	background-color:#CCC;
+	margin:10px;
+	color:#000;
+	font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+	vertical-align:middle;
+	padding:10px;
+}
+
+p {
+	font: bold 14px/1 "helvetica neue", helvetica, arial, sans-serif;
+	background-color:#CCC;
+	padding:5px;
+	margin:5px;
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+	color:#900;
+	font: bold 14px/1 "helvetica neue", helvetica, arial, sans-serif;
+	margin:5px;
+	padding:5px;
+}
+
+input {
+	height: 33px;
+	font-size: 20px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.baslik {
+	color:#000;
+	font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+	vertical-align:middle;
+	padding:10px;
+	text-align:center;
+}
+
+li {
+	list-style: none;
+	display: inline;
+	padding: 9px;
+	background-color: #B1BE6A;
+	color: black;
+	font-size: 13px;
+}
+
+li:hover{
+	cursor:pointer;
+}
+
+.tab {
+	height: 100px;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+	background-color: #B1BE6A;
+	margin: 10px;
+	color: black;
+	font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+	vertical-align: middle;
+	padding: 10px;
+	margin-top: -15px;}
+
+ .sonbelirgin { text-decoration:line-through; cursor:pointer;background-color: yellow; }
+ .ilkbelirgin { text-decoration:underline; cursor:pointer;background-color:#000; }
+ 
+ #gelendatalar {
+	text-align: left;
+	margin-left: 257px;
+	margin-top: 10px;
+	width:100px;
+}
+
+ #gelendatalar  p{
+	font: bold 14px/1 "helvetica neue", helvetica, arial, sans-serif;
+	background-color: #CCC;
+	padding: 5px;
+	margin: 5px;
+	text-align: left;
+	width: 400px;
+	}
